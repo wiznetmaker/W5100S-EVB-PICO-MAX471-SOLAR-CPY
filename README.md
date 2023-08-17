@@ -1,1 +1,5 @@
 # W5100S-EVB-PICO-MAX471-SOLAR-CPY
+
+WIZnet Maker:
+
+Hackster IO: 
